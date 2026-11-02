@@ -12,3 +12,5 @@ a{color:var(--accent)}
 .muted{color:var(--muted)}
 footer{border-top:1px solid var(--line);margin-top:48px;padding-top:16px;color:var(--muted);font-size:.9rem}
 ul{padding-left:1.2em}
+.badge{border:1px solid var(--line);border-radius:10px;padding:12px 14px;font-size:.95rem}
+.yt-mark{display:inline-block;background:#ff0000;color:#fff;border-radius:6px;padding:0 7px;margin-right:6px;font-size:.8rem;line-height:1.6}
